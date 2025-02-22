@@ -64,7 +64,7 @@
 
     <div class="container">
         <h1>Gayathri S</h1>
-        <h2>Education</h2>
+        <h2>Academics and Education</h2>
         <ul>
             <li><strong>Bachelor's Degree:</strong> Chemistry, Environmental Science, and Zoology</li>
             <li><strong>Master's Degree:</strong> Behavioral Science</li>
